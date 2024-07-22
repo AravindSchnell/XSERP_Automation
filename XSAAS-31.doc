@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#XSAAS-31] [Material] Product Specifications (Quality &amp; Other) Profile</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://schnellsoft.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [XSAAS-31]&nbsp;<a href="https://schnellsoft.atlassian.net/browse/XSAAS-31">[Material] Product Specifications (Quality &amp; Other) Profile</a>
+            <span class="subText">
+               Created: 01/Jun/23                   &nbsp;Updated: 01/Jun/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://schnellsoft.atlassian.net/secure/BrowseProject.jspa?id=10011">xserp SaaS</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Epic
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="5e6222a71fbb870afbe3a13b"
+                id="word_reporter_5e6222a71fbb870afbe3a13b"
+                href="https://schnellsoft.atlassian.net/secure/ViewProfile.jspa?accountId=5e6222a71fbb870afbe3a13b">
+                    Kalaivanan S
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-11519-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Name:</b></td>
+                <td id="customfield_10011-11519-value" class="value" bgcolor="#ffffff" width="80%">      [Material] Product Specifications (Quality &amp; Other) Profile
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-11519-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>Context
+=======
+Right now system provides only for a textual description in Material Profile, which is not quite adequate for the Users. Users wish to profile a few Specifications along with bench-mark &amp; tolerance/threshold values, for the same. These specifications will be referred across the application for various purposes, say for Quality Inspection. Hence the requirement.
+
+UI Requirement
+==============
+In Profiles --&gt; Material Add/Edit page, provide for a section named 'Specifications' placed just above the 'Stock' section, styled in a similar fashion.
+
+Inside the section, provide for a Quality Check profile
+                                  ---------------------
+                                             +----------------------------+
+QC Method [___________]        Reaction Plan |                            |
+               |                             |                           /|
+               v                             +----------------------------+
+           Text Input                                      |
+                                                           v
+                                                   Text Area Input
+&amp; a Specifications profile
+    ----------------------
+
+Parameter       Specification     Value Range     Inspection     QC
+                 (or Unit)         (if any)        Method     critical
++-----------+  +-------------+  +-----++-----+  +-----------+             +---+
+|           |  |             |  |     ||     |  |           |    []       | + |
++-----------+  +-------------+  +-----++-----+  +-----------+             +---+
+ (Text)           (Text)         (Numeric)        (Text)      (Check-box) (btn)</pre>
+</div></div>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-12575"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="5e6222a71fbb870afbe3a13b"
+                id="word_commented_5e6222a71fbb870afbe3a13b"
+                href="https://schnellsoft.atlassian.net/secure/ViewProfile.jspa?accountId=5e6222a71fbb870afbe3a13b">
+                    Kalaivanan S
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">01/Jun/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12575"><td bgcolor="#ffffff">
+            <div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>(In reply to Kalaivanan S from comment #0)
+&gt; Inside the section, provide for a Quality Check profile
+&gt;                                   ---------------------
+&gt;                                              +----------------------------+
+&gt; QC Method [___________]        Reaction Plan |                            |
+&gt;                |                             |                           /|
+&gt;                v                             +----------------------------+
+&gt;            Text Input                                      |
+&gt;                                                            v
+&gt;                                                    Text Area Input
+
+Include one other set of fields in this section, namely Sample-size
+Sample size [____|_UoM_] per [____|_UoM_]
+
+&gt; &amp; a Specifications profile
+&gt;     ----------------------
+
+Parameter    Instruction/   Value Range   Unit  Inspection   QC
+              Comments        (if any)           Method   critical
++---------+ +-------------+ +----++----+ +----+ +-------+         +---+
+|         | |             | |    ||    | |    | |       |   []    | + |
++---------+ +-------------+ +----++----+ +----+ +-------+         +---+
+(Text)      (Text)          (Numeric     (Text) (Text)   (Chkbox) (btn)
+(100 chars)                 fields - 2)(10 Char)(100 Char)</pre>
+</div></div>
+        </td></tr>
+                <tr id="comment-header-12576"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="5e6222a71fbb870afbe3a13b"
+                id="word_commented_5e6222a71fbb870afbe3a13b"
+                href="https://schnellsoft.atlassian.net/secure/ViewProfile.jspa?accountId=5e6222a71fbb870afbe3a13b">
+                    Kalaivanan S
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">01/Jun/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12576"><td bgcolor="#ffffff">
+            <div class="preformatted panel" style="border-width: 1px;"><div class="preformattedContent panelContent">
+<pre>Clicking the [+] button shall add the parameter to the Specifications profile after checking for duplication of parameter (this is the only validation required).
+
+Tabulation of Specification shall look like
++---+------------+--------------+------------+-----------+----+--------+
+|SNo|Parameter   |Instructions\ | Inspection |Value Range|Unit|   QC   |
+|   |            |    Comments  |Method/Tool |           |    |Critical|
++---+------------+--------------+------------+-----+-----+----+--------+
+| 1.|Length      |Measure along | Measuring  |  9.8| 10.2|  m |   [ ]  |
+|   |            |white-side    | Tape       |     |     |    |        |
++---+------------+--------------+------------+-----+-----+----+--------+
+| 2.|Breadth     |Measure along | Measuring  |  9.8| 10.2|  m |   [ ]  |
+|   |            |white-side    | Tape       |     |     |    |        |
++---+------------+--------------+------------+-----+-----+----+--------+
+|-+-|Height      |Measure along | Measuring  |  9.8| 10.2|  m |   [ ]  |
+|||||            |white-side    | Tape       |     |     |    |        |
++---+------------+--------------+------------+-----+-----+----+--------+
+  ^
+  On hover over SNo column, a delete icon shall be displaced in place of the SNo, clicking on which the row shall be deleted
+  QC Critical column shall be editable as checkbox
+  In all other cells, mouseover shall show an edit-pen icon, clicking which the cell shall be editable
+
+If the Material Profile is being Edited, all edits shall be saved immediately (without any necessity to click Save button), if a new one is created, only the validations need to happen immediately, while saving the details shall happen during the Profile Save.</pre>
+</div></div>
+        </td></tr>
+                <tr id="comment-header-12577"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="5e6222a71fbb870afbe3a13b"
+                id="word_commented_5e6222a71fbb870afbe3a13b"
+                href="https://schnellsoft.atlassian.net/secure/ViewProfile.jspa?accountId=5e6222a71fbb870afbe3a13b">
+                    Kalaivanan S
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">01/Jun/23</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12577"><td bgcolor="#ffffff">
+            <p><tt>Add one more open-text column, named 'Reaction Plan' to Specifications Profile, which shall be available in the tabulation too.</tt></p>
+        </td></tr>
+            </table>
+Generated at Mon Jul 22 10:09:23 UTC 2024 by Aravind R using Jira 1001.0.0-SNAPSHOT#100259-rev:bad53d5f786a0dd0aa6213d2ddbd95829503453d.
+
+</body>
+</html>
